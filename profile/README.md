@@ -6,6 +6,7 @@ Paydo is a startup focused on creating an innovative advertisement platform, whe
 We are building our platform with a modern, scalable tech stack, including:
 - **Backend**: FastAPI (Python)
 - **Databases**: PostgreSQL
+- **Web**: Vue.js
 - **Mobile**: Native iOS (Swift) and Android (Kotlin)
 
 ## 🤝 Contributing
